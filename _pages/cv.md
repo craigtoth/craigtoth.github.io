@@ -41,6 +41,7 @@ Skills
 * Microsoft 365
 * GitHub
 * LibGuides
+* Metadata
 * Web Development
   * CSS
   * HTML 5
