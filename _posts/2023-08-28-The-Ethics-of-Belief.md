@@ -1,7 +1,7 @@
 ---
 title: 'Blog Post number 1'
 date: 2023-08-28
-permalink: /posts/2023/08/blog-post-1/
+permalink: /posts/2023/08/The-Ethics-of-Belief/
 tags:
   - cool posts
   - category1
@@ -12,11 +12,4 @@ I learned an important ethical concept recently through the work of Doug Rose, w
 
 For those with a subscription to LinkedIn Learning, I would encourage you to take Doug Rose's course in which I learned about epistemology through evidence: Data Ethics: Watching Out for Data Misuse.
 
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
+---
