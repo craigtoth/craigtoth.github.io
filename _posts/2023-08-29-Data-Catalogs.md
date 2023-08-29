@@ -6,6 +6,6 @@ tags:
   - Data Catalogs
 ---
 
-Data catalogs are the backbone of a succesful data governance program.
+Quality data catalogs are the backbone of succesful data governance programs.
 
 ------
