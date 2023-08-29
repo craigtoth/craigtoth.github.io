@@ -14,3 +14,5 @@ location: "Winston Salem, NC"
 * Implemented essential changes to ensure safety and well-being of congregation by streamlining organization's operations to align with COVID-19 restrictions.
 * Utilized digital platforms to enhance outreach and communication by creating and maintaining websites while producing engaging social media content.
 * Drove organization’s vitality by leveraging leadership and offering administrative services to United Methodist congregations.
+
+---
