@@ -1,5 +1,5 @@
 ---
-title: "School Network Manager"
+title: "Network Manager"
 collection: teaching
 type: "Professional Educator"
 permalink: /teaching/2004-teaching-1
