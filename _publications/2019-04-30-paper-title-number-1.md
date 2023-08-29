@@ -12,4 +12,4 @@ This is my system evaluation of the Elon University Library.
 
 [Download paper here](https://craigtoth.github.io/files/CraigToth-System-Evaluation.pdf)
 
-Recommended citation: Toth, Craig. (2019). "Library System Evaluation." Retrieved from: https://craigtoth.github.io/files/CraigToth-System-Evaluation.pdf
+Recommended citation: Toth, Craig. (2019). "Library System Evaluation." Retrieved from: <div style="display: inline">https://craigtoth.github.io/files/CraigToth-System-Evaluation.pdf</div>
