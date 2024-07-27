@@ -2,9 +2,9 @@
 title: "Pastor"
 collection: teaching
 type: "Clergy"
-permalink: /teaching/2020-fall-teaching-2
+permalink: /teaching/2024-teaching-3
 venue: "The United Methodist Church"
-date: 2023-08-29
+date: 2024-06-30
 location: "Winston Salem, NC"
 ---
 

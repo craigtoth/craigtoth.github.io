@@ -2,7 +2,7 @@
 title: "Network Manager"
 collection: teaching
 type: "Professional Educator"
-permalink: /teaching/2004-teaching-1
+permalink: /teaching/2004-teaching-2
 venue: "Haines City High School"
 date: 2004-06-30
 location: "Haines City, Florida"
