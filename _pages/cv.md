@@ -29,7 +29,7 @@ Professional Experience
     * Provide first-tier technology support for facutly, staff, and students
 
 * 2008-2024: Pastor
-  * Western North Carolina Conference, The United Methodist Church. Currently serving in Winston Salem, NC.
+  * Western North Carolina Conference, The United Methodist Church.
   * Pastoral and administrative leadership in United Methodist congregations
 
 * 2000-2004: Network Manager
