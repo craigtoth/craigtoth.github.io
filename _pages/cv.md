@@ -22,9 +22,13 @@ Professional Development
 * TEACCH Program, University of North Carolina, Chapel Hill, NC, August 2016
 * Clinical Pastoral Education, Wake Forest University Baptist Medical Center, May 2013
 
-Work experience
+Professional Experience
 ======
-* 2008-Present: Pastor
+* 2024-Present: Technology Support Representative
+    * East River High School, Orlando, FL
+    * Provide first-tier technology support for facutly, staff, and students
+
+* 2008-2024: Pastor
   * Western North Carolina Conference, The United Methodist Church. Currently serving in Winston Salem, NC.
   * Pastoral and administrative leadership in United Methodist congregations
 
