@@ -56,8 +56,10 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
+bluesky:
+  username               : craigtoth.bsky.social
 twitter:
-  username               : &craigtoth
+  username               :
 facebook:
   username               : craig.toth
   app_id                 :
@@ -91,7 +93,7 @@ author:
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
-  bluesky          : "bsky.app" # @craigtoth.bsky.social
+  bluesky          : "@craigtoth.bsky.social"
   codepen          :
   dribbble         :
   flickr           :
