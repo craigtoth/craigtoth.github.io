@@ -24,11 +24,7 @@ Professional Development
 
 Professional Experience
 ======
-* 2024-Present: Technology Support Representative
-    * East River High School, Orlando, FL
-    * Provide first-tier technology support for facutly, staff, and students
-
-* 2008-2024: Pastor
+* 2008-Present: Pastor
   * Western North Carolina Conference, The United Methodist Church.
   * Pastoral and administrative leadership in United Methodist congregations
 
